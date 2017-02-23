@@ -1,0 +1,8 @@
+{
+    "name": "henscs/test",
+    "description": "test",
+    "type": "php",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
